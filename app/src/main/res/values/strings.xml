@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">VolleyGetRequest</string>
+
+    <string-array name="endpoints">
+        <item>operators</item>
+        <item>areas</item>
+        <item>streets</item>
+
+    </string-array>
 </resources>
